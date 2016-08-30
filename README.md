@@ -1,0 +1,2 @@
+inturido: preso, enfiado
+
