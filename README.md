@@ -5,5 +5,6 @@ desabar: ir embora (geralmente rápido)
 desembestar: faltar freio
 entranhado: preso, do lado de dentro
 incruado: ver "entranhado"
+folote: ver "afolosado"
 inturido: preso, enfiado
 mundiça: pessoa sem modos, sem educação
