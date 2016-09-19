@@ -5,4 +5,4 @@ desembestar: faltar freio
 entranhado: preso, do lado de dentro
 incruado: ver "entranhado"
 inturido: preso, enfiado
-
+mundiça: pessoa sem modos, sem educação
