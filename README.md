@@ -7,4 +7,5 @@ entranhado: preso, do lado de dentro
 incruado: ver "entranhado"
 folote: ver "afolosado"
 inturido: preso, enfiado
+labrogeiro: de má qualidade, mal feito
 mundiça: pessoa sem modos, sem educação
